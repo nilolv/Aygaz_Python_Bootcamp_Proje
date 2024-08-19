@@ -2,7 +2,7 @@
 
 
 
-# Taş, Kağıt, Makas Oyunu
+# Taş, Kağıt, Makas Oyunu🪨📜✂️
 
 Bu proje, Python kullanarak eğlenceli bir Taş, Kağıt, Makas oyunu sunar. Oyuncu ve bilgisayar arasında geçen bu oyun, klasik kurallara dayanır ve her yaştan oyuncuya hitap eder.
 
@@ -16,7 +16,7 @@ Oyuncu ve bilgisayar, taş, kağıt veya makas seçeneklerinden birini seçer ve
 
 ## Kullanım
 
-Terminal veya komut istemcisinde aşağıdaki komutu çalıştırarak oyunu başlatın:
+-Terminal veya komut istemcisinde aşağıdaki komutu çalıştırarak oyunu başlatabilirsiniz:
 
 ```bash
 C:\Users\****\Desktop\taş-kagıt-makas-oyunu\bootcamp_oyun.py
@@ -24,9 +24,9 @@ C:\Users\****\Desktop\taş-kagıt-makas-oyunu\bootcamp_oyun.py
 
 ## Kurallar
 
-- **Taş** makası yener.
-- **Kağıt** taşı yener.
-- **Makas** kağıdı yener.
+- **Taş** 🪨 makası yener.
+- **Kağıt** 📜taşı yener.
+- **Makas** ✂️kağıdı yener.
 - Oyundan çıkmak için 'q' tuşuna basın.
 
 ## Oyun Akışı
@@ -38,5 +38,5 @@ C:\Users\****\Desktop\taş-kagıt-makas-oyunu\bootcamp_oyun.py
 
 ## Katkıda Bulunma
 
-Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
+Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.🌟💖
 
