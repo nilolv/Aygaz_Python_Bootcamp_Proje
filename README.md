@@ -13,7 +13,7 @@ Oyuncu ve bilgisayar, taş, kağıt veya makas seçeneklerinden birini seçer ve
 
 ## Kurulum
 
-1. Python 3.x yüklü olduğundan emin olun.
+1. Python 3.10 yüklü olduğundan emin olun.
 2. Bu projeyi klonlayın veya indirin.
 
 ## Kullanım
