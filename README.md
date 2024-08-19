@@ -3,7 +3,7 @@ Taş, Kağıt, Makas oyunu, oyuncunun bilgisayara karşı oynadığı, basit ama
 
 
 
-```markdown
+
 # Taş, Kağıt, Makas Oyunu
 
 Bu proje, Python kullanarak eğlenceli bir Taş, Kağıt, Makas oyunu sunar. Oyuncu ve bilgisayar arasında geçen bu oyun, klasik kurallara dayanır ve her yaştan oyuncuya hitap eder.
